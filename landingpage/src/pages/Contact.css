@@ -1,0 +1,13 @@
+form{
+    width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 100px;
+    font-size:larger;
+}
+form input{
+    height:30px;
+    font-size: medium;
+}
