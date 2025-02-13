@@ -1,16 +1,16 @@
 {
   "name": "landingpage",
-  "homepage": "http://AathiraiYaazhini14.github.io/landingpage1/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "http://AathiraiYaazhini14.github.io/landing-page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.0.0",
